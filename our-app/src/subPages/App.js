@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import './index.css';
+
+import '../index.css';
 
 // function App() {
 //   return (
@@ -26,6 +25,9 @@ import './index.css';
 function App() {
   return (
     <div className="flex justify-center items-center h-screen">
+      <header>
+        hi~~~
+      </header>
       <h1 className="text-3xl font-bold underline">hello world!</h1>
       <div className="bg-blue-500 text-white px-4 py-2 rounded-lg">
         Hello, Tailwind CSS!
