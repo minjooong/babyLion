@@ -11,7 +11,7 @@ import New from './New';
 import Notice from './Notice';
 import Nav from "../nav";
 
-function My() {
+function Notice() {
     return (
         <div>
             <Nav/>
@@ -19,4 +19,4 @@ function My() {
     )
 }
 
-export default My;
+export default Notice;
