@@ -1,3 +1,4 @@
+<<<<<<< HEAD:our-app/src/subPages/App.js
 
 import '../index.css';
 
@@ -35,6 +36,12 @@ function App() {
     </div>
 
   )
+=======
+import "./index.css";
+import Nav from "./nav";
+function App() {
+    return <Nav />;
+>>>>>>> 302d1ae1e2c18722485214fa1e96cb913d171302:our-app/src/App.js
 }
 
 export default App;
