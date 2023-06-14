@@ -9,11 +9,12 @@ import Location from './Location';
 //import My from './My';
 import New from './New';
 import Notice from './Notice';
+import Nav from "../nav";
 
 function My() {
     return (
         <div>
-            <App />
+            <Nav/>
         </div>
     )
 }
