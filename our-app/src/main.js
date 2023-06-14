@@ -11,7 +11,7 @@ import New from './subPages/New';
 import Notice from './subPages/Notice';
 
 //import reportWebVitals from './reportWebVitals';
-import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Link, Route, Routes, useLocation } from 'react-router-dom';
 
 
 function Main() {
@@ -109,6 +109,12 @@ function Main() {
     }
 
     function Navigation() {
+        const location = useLocation();
+        const shouldHideNavbar = location.pathname !== '/';
+        if (shouldHideNavbar) {
+            return null; // 네비게이션 바를 숨깁니다.
+        }
+
         return (
             <nav>
                 <Link class="relative font-medium text-indigo-600 before:absolute before:-bottom-1 before:h-0.5 before:w-full before:origin-left before:scale-x-0 before:bg-indigo-600 before:transition hover:before:scale-100"
@@ -141,7 +147,7 @@ function Main() {
                     <Route path="/Notice" element={<Notice />} />
                     <Route path="/New" element={<New />} />
                     <Route path="/My" element={<My />} />
-                </Routes>`
+                </Routes>
                 < Navigation />
             </Router>
 
