@@ -10,7 +10,7 @@ import My from './subPages/My';
 import New from './subPages/New';
 import Notice from './subPages/Notice';
 
-import reportWebVitals from './reportWebVitals';
+//import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
 
 
@@ -133,7 +133,7 @@ function Main() {
         <div>
 
             <Router>
-                `<Routes>
+                <Routes>
                     <Route path="/" element={<Mainheader />} />
                     <Route path="/About" element={<About />} />
                     <Route path="/Club" element={<Club />} />
