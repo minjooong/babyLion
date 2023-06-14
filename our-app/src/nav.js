@@ -16,37 +16,37 @@ function Nav() {
                         <nav aria-label="Global" class="hidden md:block">
                             <ul class="flex items-center gap-6 text-sm">
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/About">
                                         ABOUT
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/Club">
                                         CLUBS
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/Location">
                                         LOCATION
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/Notice">
                                         NOTICE
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/New">
                                         NEW
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                                    <a class="text-gray-500 transition hover:text-gray-500/75" href="/My">
                                         MY
                                     </a>
                                 </li>
@@ -55,12 +55,12 @@ function Nav() {
 
                         <div class="flex items-center gap-4">
                             <div class="sm:flex sm:gap-4">
-                                <a class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow" href="/">
+                                <a class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow" href="/Login">
                                     Login
                                 </a>
 
                                 <div class="hidden sm:flex">
-                                    <a class="rounded-md bg-gray-100 px-5 py-2.5 text-sm font-medium text-violet-500" href="/">
+                                    <a class="rounded-md bg-gray-100 px-5 py-2.5 text-sm font-medium text-violet-500" href="/Join">
                                         Join
                                     </a>
                                 </div>
