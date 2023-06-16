@@ -9,10 +9,12 @@ import Location from "./Location";
 //import My from './My';
 import New from "./New";
 import Notice from "./Notice";
+import Nav from "../nav";
 
 function My() {
     return (
         <div>
+            <Nav />
             <header class="bg-gray-50">
                 <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
                     <div class="mt-8">
@@ -56,7 +58,7 @@ function My() {
                                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">Web Developer</td>
                                             <td class="whitespace-nowrap px-4 py-2">
                                                 <a href="#" class="inline-block rounded bg-indigo-600 px-4 py-2 text-xs font-medium text-white hover:bg-indigo-700">
-                                                    View
+                                                    자세히
                                                 </a>
                                             </td>
                                         </tr>
@@ -67,7 +69,7 @@ function My() {
                                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">-</td>
                                             <td class="whitespace-nowrap px-4 py-2">
                                                 <a href="#" class="inline-block rounded bg-indigo-600 px-4 py-2 text-xs font-medium text-white hover:bg-indigo-700">
-                                                    View
+                                                    자세히
                                                 </a>
                                             </td>
                                         </tr>
@@ -78,7 +80,7 @@ function My() {
                                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">Singer</td>
                                             <td class="whitespace-nowrap px-4 py-2">
                                                 <a href="#" class="inline-block rounded bg-indigo-600 px-4 py-2 text-xs font-medium text-white hover:bg-indigo-700">
-                                                    View
+                                                    자세히
                                                 </a>
                                             </td>
                                         </tr>
