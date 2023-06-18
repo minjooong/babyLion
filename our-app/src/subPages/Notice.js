@@ -137,7 +137,7 @@ function Notice() {
             <div class="bg-gray-50">
                 <div class="flex justify-end">
                     <a
-                        class="mt-3 mr-3 mb-3 inline-block rounded border border-violet-600 bg-violet-600 px-5 py-2 text-sm font-medium text-white hover:bg-transparent hover:text-violet-600 focus:outline-none focus:ring active:text-violet-500"
+                        class="mt-3 mr-3 mb-3 inline-block rounded border border-violet-500 bg-violet-500 px-5 py-2 text-sm font-medium text-white hover:bg-transparent hover:text-violet-500 focus:outline-none focus:ring active:text-violet-500"
                         href="#"
                     >
                         글쓰기
@@ -168,7 +168,7 @@ function Notice() {
                     </li>
 
                     <li
-                        class="mb-10 block h-8 w-8 rounded border-violet-600 bg-violet-600 text-center leading-8 text-white"
+                        class="mb-10 block h-8 w-8 rounded border-violet-600 bg-violet-500 text-center leading-8 text-white"
                     >
                         1
                     </li>
