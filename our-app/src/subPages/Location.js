@@ -81,7 +81,7 @@ function Location() {
           style={{ flex: '1', marginRight: '30px' }}
           onClick={() => handleButtonClick('button4')}
         >
-          4,5F
+          4.5F
         </button>
       </div>
       {selectedButton && (
