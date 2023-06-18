@@ -9,30 +9,30 @@ import Location from './Location';
 import My from './My';
 //import New from './New';
 import Notice from './Notice';
-import button1Image from './hi.gif'; 
+import button1Image from './hi.gif';
 import button2Image from './girl.gif';
+import button3Image from './find3.gif';
 import Nav from '../nav';
 function New() {
   return (
     <div>
-<Nav />
+      <Nav />
 
 
 
-      <section className="bg-gray-100">
+      <section className="bg-slate-50">
         <div className="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
-            <br/>  
-            <br/>
-            <h2 className="text-6xl font-bold text-purple-500 sm:text-7xl">
+            <br />  <br />
+            <h2 className=" text-6xl font-bold text-purple-500 sm:text-7xl">
               올클로 올클하자
             </h2>
 
-            <p className="mt-4 text-gray-500 sm:text-xl">
+            <p className="mt-8 text-purple-300 sm:text-xl">
               동아리, 학회, 소모임 모집??
-              올클과 함께 올클
+
             </p>
-            < p className="mt-4 text-gray-500 sm:text-xl">
+            < p className="mt-4 text-purple-300 sm:text-xl">
               올클과 함께 올클
             </p>
 
@@ -108,14 +108,52 @@ function New() {
 
 
 
-      <section className="bg-gray-100">
-        <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
-            <div className="lg:col-span-2 lg:py-12">
 
+      <section className="bg-slate-50">
+        <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-2 gap-x-16 gap-y-8 lg:grid-cols-5">
+            <div className="lg:col-span-2 lg:py-1">
+              <div style={{ marginTop: '20px', padding: '20px' }}>
+                <div className="mt-8">
+                 
+                  <a href="" className="text-6xl font-bold text-purple-300">
+                    We're Looking For You
+
+                    <div class="mx-auto max-w-lg text-right">
+                      <p class="mt-10 text-5xl font-bold text-purple-500 sm:text-3xl">
+
+                        join us ! </p>
+                    </div>
+                  </a>
+
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'flex-start', alignItems: 'center' }}>
+
+
+                  <p class="mt-8 text-8xl font-bold text-purple-100">
+
+                    ㅇㅋㅇㅋ </p>
+                  <img
+                    src={button3Image}
+                    alt="Selected Image"
+                    style={{
+                      display: 'inline-block',
+                      margin: '0',
+                      maxWidth: '120%',
+                      maxHeight: '130%',
+                    }}
+                  />
+
+                </div>
+
+              </div>
             </div>
 
+
+
             <div className="rounded-lg bg-white p-8 shadow-lg lg:col-span-3 lg:p-12">
+
+
               <form action="" className="space-y-4">
 
                 <label className="sr-only" htmlFor="name">Name</label>
@@ -172,10 +210,10 @@ function New() {
 
                     <label
                       htmlFor="option1"
-                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500"
+                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-purple-500 peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500 hover:font-extrabold"
                       tabIndex="0"
                     >
-                      <span className="text-sm font-medium"> 동아리 </span>
+                      <span className="text-sm font-bold"> 동아리 </span>
                     </label>
                   </div>
 
@@ -190,10 +228,10 @@ function New() {
 
                     <label
                       htmlFor="option2"
-                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500"
+                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-purple-500 peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500 hover:font-extrabold"
                       tabIndex="0"
                     >
-                      <span className="text-sm font-medium"> 학회 </span>
+                      <span className="text-sm font-bold"> 학회 </span>
                     </label>
                   </div>
 
@@ -208,10 +246,10 @@ function New() {
 
                     <label
                       htmlFor="option3"
-                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500"
+                      className="block w-full rounded-lg border border-gray-200 p-3 hover:border-purple-500 peer-checked:border-purple-100 peer-checked:bg-purple-100 peer-checked:text-purple-500 hover:font-extrabold"
                       tabIndex="0"
                     >
-                      <span className="text-sm font-medium"> 소모임 </span>
+                      <span className="text-sm font-bold"> 소모임 </span>
                     </label>
                   </div>
                 </div>
@@ -471,7 +509,7 @@ function New() {
                 <div className="mt-4">
                   <button
                     type="submit"
-                    className="inline-block w-full border-r rounded-lg bg-purple-200 px-5 py-3 font-medium text-purple-500 sm:w-auto"
+                    className="inline-block w-full border-r rounded-lg bg-purple-200 px-5 py-3 font-bold text-purple-500 sm:w-auto"
                   >
                     등록하기
                   </button>
