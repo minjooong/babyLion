@@ -25,7 +25,7 @@ function NewWrite() {
                     <form action="" class="mx-auto mb-0 mt-8 w-9/12 space-y-4">
                         <div>
                             <label for="title" class="sr-only">Title</label>
-
+                            
                             <div class="relative">
                                 <input
                                     type="title"
