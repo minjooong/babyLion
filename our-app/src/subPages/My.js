@@ -148,7 +148,7 @@ function My() {
                                 </button>
                             </div>
 
-                            <p class="pl-5 pb-5 mt-4 max-w-xs text-gray-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse non cupiditate quae nam molestias.</p>
+                            <p class="pl-5 pb-5 mt-4 max-w-xs text-gray-500">유학과 23학번 / 2023XXXXXX</p>
                         </div>
                         {/* setting */}
                         <div class="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:col-span-2 lg:grid-cols-3">
@@ -404,68 +404,49 @@ function My() {
                 <article class="m-8 overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                     <img
                         alt="Office"
-                        src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                        src="https://images.unsplash.com/photo-1580745294621-4e8479b5d7ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
                         class="h-30 w-50 object-cover"
                     />
 
                     <div class="bg-white p-4 sm:p-6">
                         <a href="#">
-                            <h3 class="mt-0.5 text-lg text-gray-900">모두의 디자인</h3>
+                            <h3 class="mt-0.5 text-lg text-gray-900">두드려 : Come To Knock Rock</h3>
                         </a>
 
-                        <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">여러 디자인 관련 활동을 하는 동아리입니다.</p>
+                        <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">경제대학 소속 유일 밴드 두드려가 29기 추가 모집을 진행합니다. 보컬과 기타 세션만을 대상으로 모집한다는 점 양해 부탁드립니다.</p>
                     </div>
                 </article>
                 <article class="m-8 overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                     <img
                         alt="Office"
-                        src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                        src="https://images.unsplash.com/photo-1504966981333-1ac8809be1ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
                         class="h-30 w-50 object-cover"
                     />
 
                     <div class="bg-white p-4 sm:p-6">
                         <a href="#">
-                            <h3 class="mt-0.5 text-lg text-gray-900">모두의 디자인</h3>
-                        </a>
-
-                        <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">여러 디자인 관련 활동을 하는 동아리입니다.</p>
-                    </div>
-                </article>
-                <article class="m-8 overflow-hidden rounded-lg shadow transition hover:shadow-lg">
-                    <img
-                        alt="Office"
-                        src="https://images.unsplash.com/photo-1549834125-82d3c48159a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60"
-                        class="h-30 w-full object-cover"
-                    />
-
-                    <div class="bg-white p-4 sm:p-6">
-                        <a href="#">
-                            <h3 class="mt-0.5 text-lg text-gray-900">헤비메탈 밴드</h3>
+                            <h3 class="mt-0.5 text-lg text-gray-900">별누리</h3>
                         </a>
 
                         <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla
-                            ipsum eveniet corporis quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius atque dignissimos. Molestias explicabo
-                            corporis voluptatem?
+                        천체에 대해 배우는 동이리이며 정기 세미나와 분기별 관측회를 주 활동으로 하고 있습니다.
                         </p>
                     </div>
                 </article>
                 <article class="m-8 overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                     <img
                         alt="Office"
-                        src="https://images.unsplash.com/photo-1549834125-82d3c48159a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60"
+                        src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                         class="h-30 w-full object-cover"
                     />
 
                     <div class="bg-white p-4 sm:p-6">
                         <a href="#">
-                            <h3 class="mt-0.5 text-lg text-gray-900">헤비메탈 밴드</h3>
+                            <h3 class="mt-0.5 text-lg text-gray-900">못갖춘마디</h3>
                         </a>
 
                         <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus pariatur animi temporibus nesciunt praesentium dolore sed nulla
-                            ipsum eveniet corporis quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius atque dignissimos. Molestias explicabo
-                            corporis voluptatem?
+                        중앙 통기타 동아리 못갖춘마디는 통기타를 기반으로 한 다양한 어쿠스틱 음악을 연주하는 밴드입니다. 학기 중 1회 공연 및 방학 중 1회 워크샵을 진행하는 주된 연간일정이 계획되어 있으며, 사이사이로 기타 강좌, 친목도모를 위한 소풍 등의 작은 행사가 있습니다.
                         </p>
                     </div>
                 </article>
