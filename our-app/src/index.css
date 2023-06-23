@@ -3,23 +3,53 @@
 @tailwind utilities;
 @tailwindcss forms;
 
-.balloon {
-    /* display: none; */
-    /* position: absolute; */
-    width: 300px;
-    height: 40px;
-    left: 448px;
-    bottom: 62px;
-    /* background: #484848; */
-    color: white;
-    border-radius: 5px;
-    padding: 12px 12.8px;
-    border-top: 10px solid transparent;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-bottom: 0px solid transparent;
+.speech {
+    /* (A1) FONT */
+    font-size: 1.1em;
+
+    /* (A2) COLORS */
+    color: #fff;
+    background: rgb(216 180 254);
+
+    /* (A3) DIMENSIONS + POSITION */
+    position: relative;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+    max-width: 320px;
+}
+
+/* (B) ADD SPEECH "CALLOUT TAIL" */
+/* (B1) USE ::AFTER TO CREATE THE "TAIL" */
+.speech::after {
+    /* (B1-1) ATTACH TRANSPARENT BORDERS */
     content: "";
-    /* position: absolute; */
-    top: 40px;
-    left: 160px;
+    border: 20px solid transparent;
+
+    /* (B1-2) NECESSARY TO POSITION THE "TAIL" */
+    position: absolute;
+}
+
+/* (C2) LEFT */
+.left.speech::after {
+    /* (C2-1) LEFT TRIANGLE */
+    border-right-color: rgb(216 180 254);
+    border-left: 0;
+
+    /* (C2-2) POSITION AT LEFT */
+    left: -20px;
+    top: 50%;
+    margin-top: -20px;
+}
+
+/* (C3) RIGHT */
+.right.speech::after {
+    /* (C3-1) RIGHT TRIANGLE */
+    border-left-color: rgb(216 180 254);
+    border-right: 0;
+
+    /* (C3-2) POSITION AT RIGHT */
+    right: -20px;
+    top: 50%;
+    margin-top: -20px;
 }
