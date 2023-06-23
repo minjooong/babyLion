@@ -72,9 +72,9 @@ function About() {
 
                     <Introduce />
 
-                    <h2 class="text-center text-4xl font-bold text-violet-500 tracking-tight sm:text-5xl">Who are we?</h2>
+                    <h2 class="text-center text-4xl font-bold text-violet-500 tracking-tight sm:text-5xl">Made By</h2>
                     <br></br>
-                    <h3 class="text-center text-2xl font-bold tracking-tight sm:text-3xl">About Team 멋4</h3>
+                    {/* <h3 class="text-center text-2xl font-bold tracking-tight sm:text-3xl">About Team 멋4</h3> */}
                     <div class="mt-12 grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-8">
                         <blockquote class="rounded-lg bg-white p-8">
                             <div class="flex items-center gap-4">
