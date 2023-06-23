@@ -12,6 +12,7 @@ import Notice from './subPages/Notice';
 import Login from './subPages/Login';
 import Join from './subPages/Join';
 import NewWrite from './subPages/NewWrite';
+import Okok from './subPages/okok';
 import { Navigation, Pagination, Scrollbar } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -44,16 +45,16 @@ function AiRecommend() {
 
                         <p class="max-w-xl text-lg mt-1.5 text-gray-500">
                             아직 어떤 동아리에 가입해야할지 결정하지 못하셨나요?
-                            걱정하지 마세요, 저희의 AI 친구 <span class="text-violet-600 font-bold"><a href="/" class="hover:text-violet-900">'ㅇㅋㅇㅋ'</a></span>가 당신에게 가장 알맞는 동아리를 추천해줄게요!
+                            걱정하지 마세요, 저희의 AI 친구 <span class="text-violet-600 font-bold"><a href="/Okok" class="hover:text-violet-900">'ㅇㅋㅇㅋ'</a></span>가 당신에게 가장 알맞는 동아리를 추천해줄게요!
                         </p>
 
                         <div class="mt-8">
-                            <a href="" class="text-3xl font-bold text-violet-500 hover:text-violet-800">
+                            <a href="/Okok" class="text-3xl font-bold text-violet-500 hover:text-violet-800">
                                 ㅇㅋㅇㅋ
                             </a>
                             <span class="text-3xl font-bold text-violet-500"> :</span>
                             <p class="mt-2 max-w-xl text-ml mt-1.5">
-                                안녕! 나는 '올클'에서 개발한 AI 챗봇 <span class="text-violet-600 font-bold"><a href="/" class="hover:text-violet-900">'ㅇㅋㅇㅋ'</a></span>야. <br />
+                                안녕! 나는 '올클'에서 개발한 AI 챗봇 <span class="text-violet-600 font-bold"><a href="/Okok" class="hover:text-violet-900">'ㅇㅋㅇㅋ'</a></span>야. <br />
                                 오른쪽 문항에 너를 나타내는 정보를 작성을 한 후, 나에게 메세지를 전송해줘.
                                 내가 너에게 가장 잘 어울리는 동아리를 하나 추천해줄게! <br />
                                 <span class="text-sm text-gray-500">* 나에 대한 정보가 궁금하면 내 이름을 눌러봐 *</span>
@@ -1419,6 +1420,8 @@ function Main() {
                         <Route path="/New" element={<New />} />
                         <Route path="/My" element={<My />} />
                         <Route path="/NewWrite" element={<NewWrite />} />
+                        <Route path="/Okok" element={<Okok />} />
+
                     </Routes>
                     < NavigationLocation />
                     <ShowClub />
