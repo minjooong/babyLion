@@ -11,6 +11,7 @@ import New from './subPages/New';
 import Notice from './subPages/Notice';
 import Login from './subPages/Login';
 import Join from './subPages/Join';
+import NewWrite from './subPages/NewWrite';
 import { Navigation, Pagination, Scrollbar } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -1417,6 +1418,7 @@ function Main() {
                         <Route path="/Notice" element={<Notice />} />
                         <Route path="/New" element={<New />} />
                         <Route path="/My" element={<My />} />
+                        <Route path="/NewWrite" element={<NewWrite />} />
                     </Routes>
                     < NavigationLocation />
                     <ShowClub />
