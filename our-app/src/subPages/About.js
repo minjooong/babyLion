@@ -9,6 +9,7 @@ import My from './My';
 import New from './New';
 import Notice from './Notice';
 
+import Introduce from './Introduce';
 import '../index.css';
 import Nav from '../nav';
 
@@ -18,6 +19,42 @@ function About() {
             <Nav />
             <section class="bg-gray-100">
                 <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+                    <h1 class="text-center text-4xl font-bold tracking-tight text-violet-500 sm:text-5xl">동아리 정보 , 모집, 신청을 한번에</h1>
+                    <br />
+                    <br />
+                    <p class="mt-1.5 text-xl text-gray-500"><span class="font-extrabold text-4xl text-violet-500">All Of the Clubs,</span> <br />
+                        일명 올클은 교내 / 교외 동아리까지 지역 구분없이 모든 동아리의 정보를 확인할 수 있는 웹사이트입니다. <br /> <br />
+                        <span class="text-violet-500 font-extrabold text-2xl">동아리 부원을 모집하고 싶은 운영자는, </span> 동아리의 정보를 등록하고 모집 및 신청 접수를 <br />
+                        <span class="text-violet-500 font-extrabold text-2xl">동아리를 찾아보고 신청하고 싶은 학생은, </span> 동아리의 모집 정보를 찾아보고 가입 신청을 <br />
+                    </p>
+                    <br />
+                    <br />
+                    <h3 class="text-center text-4xl font-bold tracking-tight text-violet-500 sm:text-5xl">누구나 사용할 수 있는 올클, 지금 당장 시작해보세요!</h3>
+
+                    <br />
+                    <br />
+
+                    <div class="flex items-center justify-center">
+                        <div class="relative">
+                            <div class="sm:flex sm:gap-4">
+                                <p class="balloon bg-purple-300 text-center font-extrabold">이미 올클 아이디가 있다면</p>
+                                <a class="rounded-md bg-violet-500 px-10 py-5 text-sm font-medium text-white shadow hover:bg-violet-800" href="/Login">
+                                    Login
+                                </a>
+
+                                <div class="hidden sm:flex">
+                                    <a class="rounded-md bg-gray-100 px-10 py-5 text-sm font-medium text-violet-500 hover:text-violet-900 hover:font-bold border border-gray-200 p-6 hover:border-violet-600" href="/Join">
+                                        Join
+                                    </a>
+                                </div>
+
+                                <p class="balloon bg-purple-300 text-center font-extrabold">올클을 처음 이용한다면</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <Introduce />
+
                     <h2 class="text-center text-4xl font-bold text-violet-500 tracking-tight sm:text-5xl">
                         Who are we?
                     </h2>
