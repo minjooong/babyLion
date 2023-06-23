@@ -1140,23 +1140,19 @@ function NewClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1543109740-4bdb38fda756?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=800"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    알라
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                영어 청취, 연구를 통해 실력을 향상시키고자 하는 동아리
                             </p>
 
                             <a
@@ -1181,23 +1177,19 @@ function NewClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1582091652153-eb8f55ff7cd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWR2ZXJ0aXNlbWVudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    비내이
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                저희 동아리는 광고를 기획하고 제작하는 동아리입니다.
                             </p>
 
                             <a
@@ -1222,23 +1214,19 @@ function NewClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1504966981333-1ac8809be1ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    별누리
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                천체에 대해 배우는 동이리이며 정기 세미나와 분기별 관측회를 주 활동으로 하고 있습니다.
                             </p>
 
                             <a
@@ -1281,23 +1269,19 @@ function PopularClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1629901925121-8a141c2a42f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhc2tldGJhbGx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    농성회
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                저희 동아리 농성회는 매주 화요일과 목요일 4시반 부터 7시 반에 훈련을 진행하고 있으며 새내기 대회나 타 농구대회에 출전하는 등의 활동을 보이고 있습니다.
                             </p>
 
                             <a
@@ -1322,23 +1306,19 @@ function PopularClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1551696785-927d4ac2d35b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3JjaGVzdHJhfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    오케스트라
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                성균관대학교 최대 규모의 관현악단으로, 정기 연주회와 더불어 작은 연주회 등의 활동을 합니다.
                             </p>
 
                             <a
@@ -1363,23 +1343,19 @@ function PopularClub() {
                     >
                         <img
                             alt="Office"
-                            src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                            src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                             class="h-56 w-full object-cover"
                         />
 
                         <div class="p-4 sm:p-6">
                             <a href="#">
                                 <h3 class="text-lg font-medium text-gray-900">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    못갖춘마디
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                                중앙 통기타 동아리 못갖춘마디는 통기타를 기반으로 한 다양한 어쿠스틱 음악을 연주하는 밴드입니다. 학기 중 1회 공연 및 방학 중 1회 워크샵을 진행하는 주된 연간일정이 계획되어 있으며, 사이사이로 기타 강좌, 친목도모를 위한 소풍 등의 작은 행사가 있습니다.
                             </p>
 
                             <a

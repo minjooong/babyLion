@@ -466,7 +466,7 @@ function Sorting() {
                         <a href="#" class="block shrink-0">
                             <img
                                 alt="Speaker"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                                src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                                 class="h-14 w-14 rounded-lg object-cover"
                             />
                         </a>
@@ -561,11 +561,11 @@ function Sorting() {
 
                             <button
                                 onClick={() => setIsModalOpen(true)}
-                                class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
+                                class="float-left rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                 Apply
                             </button>
 
-                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 p-4">
+                            <div class="float-left mt-2 sm:flex sm:items-center sm:gap-2 pl-4 pb-3">
                                 <div class="flex items-center gap-1 text-gray-500">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -584,15 +584,6 @@ function Sorting() {
 
                                     <p class="text-xs">0 / 20</p>
                                 </div>
-
-                                <span class="hidden sm:block" aria-hidden="true">&middot;</span>
-
-                                <p class="hidden sm:block sm:text-xs sm:text-gray-500">
-                                    Posted by
-                                    <a href="#" class="font-medium underline hover:text-gray-700">
-                                        John
-                                    </a>
-                                </p>
                             </div>
                         </div>
                     </div>
@@ -626,7 +617,7 @@ function Sorting() {
                         <a href="#" class="block shrink-0">
                             <img
                                 alt="Speaker"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                                src="https://images.unsplash.com/photo-1534294228306-bd54eb9a7ba8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGVhcnRofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                                 class="h-14 w-14 rounded-lg object-cover"
                             />
                         </a>
@@ -721,11 +712,11 @@ function Sorting() {
 
                             <button
                                 onClick={() => setIsModalOpen(true)}
-                                class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
+                                class="float-left rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                 Apply
                             </button>
 
-                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 p-4">
+                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 pl-4 pb-3 float-left">
                                 <div class="flex items-center gap-1 text-gray-500">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -744,15 +735,6 @@ function Sorting() {
 
                                     <p class="text-xs">   0 / 40</p>
                                 </div>
-
-                                <span class="hidden sm:block" aria-hidden="true">&middot;</span>
-
-                                <p class="hidden sm:block sm:text-xs sm:text-gray-500">
-                                    Posted by
-                                    <a href="#" class="font-medium underline hover:text-gray-700">
-                                        John
-                                    </a>
-                                </p>
                             </div>
                         </div>
                     </div>
@@ -785,7 +767,7 @@ function Sorting() {
                         <a href="#" class="block shrink-0">
                             <img
                                 alt="Speaker"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                                src="https://media.istockphoto.com/id/1367660200/ko/%EC%82%AC%EC%A7%84/%EB%B3%B4%EC%BC%80-%EC%A1%B0%EB%AA%85-%EC%9C%A0%EC%A0%84-%EC%9D%98%ED%95%99-%EB%B0%8F-%ED%98%81%EC%8B%A0%EA%B3%BC-%EB%B8%94%EB%A3%A8-dna-%EA%B7%B8%EB%A6%BC.webp?b=1&s=170667a&w=0&k=20&c=dGDsOa6drZyD2xWbCfp6HA9z-eNSSJf_XHx8p_sanQc="
                                 class="h-14 w-14 rounded-lg object-cover"
                             />
                         </a>
@@ -880,11 +862,11 @@ function Sorting() {
 
                             <button
                                 onClick={() => setIsModalOpen(true)}
-                                class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
+                                class="float-left rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                 Apply
                             </button>
 
-                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 p-4">
+                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 pl-4 pb-3 float-left">
                                 <div class="flex items-center gap-1 text-gray-500">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -903,15 +885,6 @@ function Sorting() {
 
                                     <p class="text-xs">   0 / 8</p>
                                 </div>
-
-                                <span class="hidden sm:block" aria-hidden="true">&middot;</span>
-
-                                <p class="hidden sm:block sm:text-xs sm:text-gray-500">
-                                    Posted by
-                                    <a href="#" class="font-medium underline hover:text-gray-700">
-                                        John
-                                    </a>
-                                </p>
                             </div>
                         </div>
                     </div>
@@ -944,7 +917,7 @@ function Sorting() {
                         <a href="#" class="block shrink-0">
                             <img
                                 alt="Speaker"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                                src="https://images.unsplash.com/photo-1504150558240-0b4fd8946624?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhdmVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
                                 class="h-14 w-14 rounded-lg object-cover"
                             />
                         </a>
@@ -1039,11 +1012,11 @@ function Sorting() {
 
                             <button
                                 onClick={() => setIsModalOpen(true)}
-                                class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
+                                class="float-left rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                 Apply
                             </button>
 
-                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 p-4">
+                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 pl-4 pb-3 float-left">
                                 <div class="flex items-center gap-1 text-gray-500">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -1062,15 +1035,7 @@ function Sorting() {
 
                                     <p class="text-xs">   0 / 30</p>
                                 </div>
-
-                                <span class="hidden sm:block" aria-hidden="true">&middot;</span>
-
-                                <p class="hidden sm:block sm:text-xs sm:text-gray-500">
-                                    Posted by
-                                    <a href="#" class="font-medium underline hover:text-gray-700">
-                                        John
-                                    </a>
-                                </p>
+    
                             </div>
                         </div>
                     </div>
@@ -1103,7 +1068,7 @@ function Sorting() {
                         <a href="#" class="block shrink-0">
                             <img
                                 alt="Speaker"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                                src="https://images.unsplash.com/photo-1580745294621-4e8479b5d7ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhbmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
                                 class="h-14 w-14 rounded-lg object-cover"
                             />
                         </a>
@@ -1198,11 +1163,11 @@ function Sorting() {
 
                             <button
                                 onClick={() => setIsModalOpen(true)}
-                                class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
+                                class="float-left rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                 Apply
                             </button>
 
-                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 p-4">
+                            <div class="mt-2 sm:flex sm:items-center sm:gap-2 pl-4 pb-3 float-left">
                                 <div class="flex items-center gap-1 text-gray-500">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -1221,15 +1186,6 @@ function Sorting() {
 
                                     <p class="text-xs">   5 / 5</p>
                                 </div>
-
-                                <span class="hidden sm:block" aria-hidden="true">&middot;</span>
-
-                                <p class="hidden sm:block sm:text-xs sm:text-gray-500">
-                                    Posted by
-                                    <a href="#" class="font-medium underline hover:text-gray-700">
-                                        John
-                                    </a>
-                                </p>
                             </div>
                         </div>
                     </div>
