@@ -17,6 +17,7 @@ import button1Image from './location_1f.jpg';
 import button2Image from './location_2f.jpg';
 import button3Image from './location_3f.jpg';
 import button4Image from './location_45f.jpg';
+import pandaImage from './panda_image.gif'
 import defaultImage from './default_image.jpg';
 
 function Location() {
@@ -85,21 +86,50 @@ function Location() {
         </button>
       </div>
       {!selectedButton && !isButtonClicked && (
-        <div style={{ textAlign: 'center', marginTop: '30px', padding: '30px' }}>
-          <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
-            <img
-              src={defaultImage}
-              alt="Default Image"
-              style={{
-                display: 'inline-block',
-                margin: '0',
-                maxWidth: '100%',
-                maxHeight: '100%',
-              }}
-            />
+
+
+        <div class="grid grid-cols-1 gap-0 text-center sm:grid-cols-2 font-medium">
+
+          <div style={{ textAlign: 'center', marginTop: '30px', padding: '30px' }}>
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
+              <img
+                src={pandaImage}
+                alt="Selected Image"
+                style={{
+                  display: 'inline-block',
+                  margin: '0',
+                  maxWidth: '80%',
+                  maxHeight: '80%',
+                }}
+              />
+            </div>
+          </div>
+
+
+          <div style={{ textAlign: 'center', marginTop: '30px', padding: '30px' }}>
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
+              <img
+                src={defaultImage}
+                alt="Selected Image"
+                style={{
+                  display: 'inline-block',
+                  margin: '0',
+                  maxWidth: '100%',
+                  maxHeight: '100%',
+                }}
+              />
+
+            </div>
           </div>
         </div>
       )}
+
+
+
+
+
+
+
       {selectedButton && (
         <div style={{ textAlign: 'center', marginTop: '30px', padding: '30px' }}>
           <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
