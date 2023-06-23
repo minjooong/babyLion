@@ -22,11 +22,13 @@ function About() {
                     <h1 class="text-center text-4xl font-bold tracking-tight text-violet-500 sm:text-5xl">동아리 정보 , 모집, 신청을 한번에</h1>
                     <br />
                     <br />
-                    <p class="mt-1.5 text-xl text-gray-500">
+                    <p class="text-center mt-1.5 text-xl text-gray-500">
                         <span class="font-extrabold text-4xl text-violet-500">All Of the Clubs,</span> <br />
-                        일명 올클은 교내 / 교외 동아리까지 지역 구분없이 모든 동아리의 정보를 확인할 수 있는 웹사이트입니다. <br /> <br />
-                        <span class="text-violet-500 font-extrabold text-2xl">동아리 부원을 모집하고 싶은 운영자는, </span> 동아리의 정보를 등록하고 모집 및 신청 접수를 <br />
-                        <span class="text-violet-500 font-extrabold text-2xl">동아리를 찾아보고 신청하고 싶은 학생은, </span> 동아리의 모집 정보를 찾아보고 가입 신청을 <br />
+                        올클은 전 세계의 모든 동아리, 학회, 소모임의 정보를 확인할 수 있는 웹사이트입니다. <br /> <br />
+                        부원을 모집하고 싶은 <span class="text-violet-500 font-extrabold text-2xl">동아리 운영자는 </span> 자신의 동아리를 등록하고 홍보/모집을, <br />
+                        나에게 맞는 동아리를 찾아 <span class="text-violet-500 font-extrabold text-2xl">신청하고 싶은 학생은 </span> 모집 정보를 찾아보고 가입 신청을 간편하게 할 수
+                        있습니다. <br />
+                        <br />
                     </p>
                     <br />
                     <br />
