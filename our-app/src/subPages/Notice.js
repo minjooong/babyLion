@@ -46,7 +46,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 10
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리 지원금 관련 안내사항</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">동아리 지원금 관련 안내사항</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.06.12</td>
                         </tr>
@@ -55,7 +55,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 9
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">제6회 농성배 농구대회 동아리 모집 공고</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">제6회 농성배 농구대회 동아리 모집 공고</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">농성회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.05.29</td>
                         </tr>
@@ -64,7 +64,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 8
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">제7회 성축배 축구대회 동아리 모집 공고</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">제7회 성축배 축구대회 동아리 모집 공고</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">성축단</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.05.22</td>
                         </tr>
@@ -73,7 +73,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 7
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 금잔디 축제 공연 동아리 선발 결과</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">2023 금잔디 축제 공연 동아리 선발 결과</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.05.21</td>
                         </tr>
@@ -82,7 +82,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 6
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 어글리 정기공연 안내</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">2023 어글리 정기공연 안내</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">어글리</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.05.17</td>
                         </tr>
@@ -91,7 +91,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 5
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">멋사 추가부원 모집 공고</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">멋사 추가부원 모집 공고</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">멋쟁이사자처럼</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.05.11</td>
                         </tr>
@@ -100,7 +100,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 4
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">신규 동아리 등록 안내</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">신규 동아리 등록 안내</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.04.21</td>
                         </tr>
@@ -109,7 +109,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 3
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 금잔디 축제 공연 동아리 모집 공고</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">2023 금잔디 축제 공연 동아리 모집 공고</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.04.19</td>
                         </tr>
@@ -118,7 +118,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 2
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 동아리 모집 기간 연장</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">2023 동아리 모집 기간 연장</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.04.12</td>
                         </tr>
@@ -127,7 +127,7 @@ function Notice() {
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
                                 1
                             </td>
-                            <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 동아리 모집 공고</td>
+                            <td class="whitespace-nowrap px-4 py-2 text-gray-700"><a href="#" class="no-underline hover:underline ...">2023 동아리 모집 공고</a></td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023.04.03</td>
                         </tr>
