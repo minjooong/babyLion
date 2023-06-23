@@ -44,7 +44,7 @@ function Notice() {
                     <tbody class="divide-y divide-gray-200 text-center">
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                1
+                                10
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리 지원금 관련 안내사항</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
@@ -53,7 +53,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                2
+                                9
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">제6회 농성배 농구대회 동아리 모집 공고</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">농성회</td>
@@ -62,7 +62,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                3
+                                8
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">제7회 성축배 축구대회 동아리 모집 공고</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">성축단</td>
@@ -71,7 +71,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                4
+                                7
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 금잔디 축제 공연 동아리 선발 결과</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
@@ -80,7 +80,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                5
+                                6
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 어글리 정기공연 안내</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">어글리</td>
@@ -89,7 +89,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                6
+                                5
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">멋사 추가부원 모집 공고</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">멋쟁이사자처럼</td>
@@ -98,7 +98,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                7
+                                4
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">신규 동아리 등록 안내</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
@@ -107,7 +107,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                8
+                                3
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 금잔디 축제 공연 동아리 모집 공고</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
@@ -116,7 +116,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                9
+                                2
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 동아리 모집 기간 연장</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
@@ -125,7 +125,7 @@ function Notice() {
 
                         <tr>
                             <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
-                                10
+                                1
                             </td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">2023 동아리 모집 공고</td>
                             <td class="whitespace-nowrap px-4 py-2 text-gray-700">동아리연합회</td>
