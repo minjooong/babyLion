@@ -18,7 +18,7 @@ function About() {
         <div>
             <Nav />
             <section class="bg-gray-100">
-                <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+            <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
                     <h1 class="text-center text-4xl font-bold tracking-tight text-violet-500 sm:text-5xl">동아리 정보 , 모집, 신청을 한번에</h1>
                     <br />
                     <br />
