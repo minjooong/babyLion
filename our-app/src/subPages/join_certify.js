@@ -43,7 +43,7 @@ function join_certify() {
             <div style={{ display: "flex", justifyContent: "center", alignItems: "center", marginTop: "30px" }}>
                 <div class="flex items-center gap-4">
                     <div class="sm:flex sm:gap-4">
-                        <a class="rounded-md bg-violet-500 px-20 py-4 text-sm font-medium text-white shadow hover:bg-violet-800" href="/main">
+                        <a class="rounded-md bg-violet-500 px-20 py-4 text-sm font-medium text-white shadow hover:bg-violet-800" href="/Join">
                             Upload
                         </a>
                     </div>
