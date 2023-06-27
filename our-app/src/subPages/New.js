@@ -514,6 +514,7 @@ function New() {
                   >
                     등록하기
                   </button>
+                  
                 </div>
               </form>
             </div>
