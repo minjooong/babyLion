@@ -1035,7 +1035,7 @@ function Sorting() {
 
                                     <p class="text-xs">   0 / 30</p>
                                 </div>
-    
+
                             </div>
                         </div>
                     </div>
@@ -1379,19 +1379,21 @@ function Move() {
                 </a>
             </li>
 
+
+
+            <li
+                class="block h-8 w-8 rounded border-violet-700 bg-violet-700 text-center leading-8 text-white"
+            >
+                1
+            </li>
+
             <li>
                 <a
                     href="#"
                     class="block h-8 w-8 rounded border border-gray-100 bg-white text-center leading-8 text-gray-900"
                 >
-                    1
+                    2
                 </a>
-            </li>
-
-            <li
-                class="block h-8 w-8 rounded border-blue-600 bg-blue-600 text-center leading-8 text-white"
-            >
-                2
             </li>
 
             <li>

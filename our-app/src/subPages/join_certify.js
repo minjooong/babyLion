@@ -1,4 +1,6 @@
-function join_certify() {
+
+
+function Join_certify() {
     return (
         <div>
             <h1
@@ -53,4 +55,4 @@ function join_certify() {
     );
 };
 
-export default join_certify;
+export default Join_certify;

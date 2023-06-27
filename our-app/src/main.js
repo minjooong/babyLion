@@ -13,6 +13,8 @@ import Login from './subPages/Login';
 import Join from './subPages/Join';
 import NewWrite from './subPages/NewWrite';
 import Okok from './subPages/okok';
+import Join_certify from './subPages/join_certify';
+import Join_join from './subPages/join_join';
 import { Navigation, Pagination, Scrollbar } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -1397,6 +1399,8 @@ function Main() {
                         <Route path="/My" element={<My />} />
                         <Route path="/NewWrite" element={<NewWrite />} />
                         <Route path="/Okok" element={<Okok />} />
+                        <Route path="/join_certify" element={<Join_certify />} />
+                        <Route path="/join_join" element={<Join_join />} />
 
                     </Routes>
                     < NavigationLocation />

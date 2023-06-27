@@ -1,6 +1,6 @@
 import pandaImage from "./panda_image.gif";
 
-function join_join() {
+function Join_join() {
     return (
         <div>
             <h1
@@ -37,7 +37,7 @@ function join_join() {
                             </a>
 
                             <div class="hidden sm:flex">
-                                <a class="rounded-md bg-gray-100 px-20 py-4 text-sm font-medium text-violet-500 hover:font-bold" href="/main">
+                                <a class="rounded-md bg-gray-100 px-20 py-4 text-sm font-medium text-violet-500 hover:font-bold" href="/">
                                     home
                                 </a>
                             </div>
@@ -52,4 +52,4 @@ function join_join() {
 
 };
 
-export default join_join;
+export default Join_join;
