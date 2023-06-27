@@ -1,5 +1,11 @@
 import "../index.css";
+
+function alertSign(){
+    console.log("clear");
+}
+
 function Login() {
+
     return (<div>
 
 
@@ -83,12 +89,14 @@ function Login() {
                         </div>
                     </div>
 
-                    <button
+                    <div
+                        id ="loginAlert"
                         type="submit"
-                        class="block w-full rounded-lg bg-violet-600 px-5 py-3 text-sm font-medium text-white hover:bg-violet-800 hover:font-bold"
+                        class="grid place-items-center block w-full rounded-lg bg-violet-600 px-5 py-3 text-sm font-medium text-white hover:bg-violet-800 hover:font-bold"
+                        onClick={() => alert('아직 개발 중입니다.')}
                     >
                         Sign in
-                    </button>
+                    </div>
 
                     <p class="text-center text-sm text-gray-500">
                         No account? <span>   </span>
