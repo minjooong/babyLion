@@ -115,7 +115,7 @@ function New() {
             <div className="lg:col-span-2 lg:py-1">
               <div style={{ marginTop: '20px', padding: '20px' }}>
                 <div className="mt-8">
-                 
+
                   <a href="" className="text-6xl font-bold text-purple-300">
                     We're Looking For You
 
@@ -508,6 +508,7 @@ function New() {
 
                 <div className="mt-4">
                   <button
+                    onClick={() => alert('아직 개발 중입니다.')}
                     type="submit"
                     className="inline-block w-full border-r rounded-lg bg-purple-200 px-5 py-3 font-bold text-purple-500 sm:w-auto"
                   >

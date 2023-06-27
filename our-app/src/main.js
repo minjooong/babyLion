@@ -157,7 +157,7 @@ function AiRecommend() {
                                         class="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-black peer-checked:font-extrabold"
                                         tabindex="0"
                                     >
-                                        <span class="text-sm font-medium"> 학업 </span>
+                                        <span class="text-sm"> 학업 </span>
                                     </label>
                                 </div>
 
@@ -175,7 +175,7 @@ function AiRecommend() {
                                         class="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-black peer-checked:font-extrabold"
                                         tabindex="0"
                                     >
-                                        <span class="text-sm font-medium"> 취미 </span>
+                                        <span class="text-sm"> 취미 </span>
                                     </label>
                                 </div>
 
@@ -193,7 +193,7 @@ function AiRecommend() {
                                         class="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-black peer-checked:font-extrabold"
                                         tabindex="0"
                                     >
-                                        <span class="text-sm font-medium"> 밴드 </span>
+                                        <span class="text-sm"> 밴드 </span>
                                     </label>
                                 </div>
                                 <div>
@@ -210,7 +210,7 @@ function AiRecommend() {
                                         class="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-black peer-checked:font-extrabold"
                                         tabindex="0"
                                     >
-                                        <span class="text-sm font-medium"> 파티 </span>
+                                        <span class="text-sm"> 파티 </span>
                                     </label>
                                 </div>
                                 <div>
@@ -227,7 +227,7 @@ function AiRecommend() {
                                         class="block w-full rounded-lg border border-gray-200 p-3 hover:border-black peer-checked:border-black peer-checked:font-extrabold"
                                         tabindex="0"
                                     >
-                                        <span class="text-sm font-medium"> 전체 </span>
+                                        <span class="text-sm"> 전체 </span>
                                     </label>
                                 </div>
                             </div>
@@ -452,6 +452,7 @@ function AiRecommend() {
                                 <button
                                     type="submit"
                                     class="inline-block w-full rounded-lg bg-violet-500 px-5 py-3 font-medium text-xl text-white sm:w-auto hover:bg-violet-800"
+                                    onClick={() => alert('아직 개발 중입니다.')}
                                 >
                                     Send
                                 </button>
@@ -771,6 +772,7 @@ function ShowClub() {
 
                         <div class="hidden lg:mt-8 lg:flex lg:gap-4">
                             <button
+                                onClick={() => alert('아직 개발 중입니다.')}
                                 class="prev-button rounded-full border border-violet-600 p-3 text-violet-600 hover:bg-violet-600 hover:text-white"
                             >
                                 <span class="sr-only">Previous Slide</span>
@@ -791,6 +793,7 @@ function ShowClub() {
                             </button>
 
                             <button
+                                onClick={() => alert('아직 개발 중입니다.')}
                                 class="next-button rounded-full border border-violet-600 p-3 text-violet-600 hover:bg-violet-600 hover:text-white"
                             >
                                 <span class="sr-only">Next Slide</span>
@@ -891,7 +894,7 @@ function ShowClub() {
                                                 <div className="sm:flex sm:gap-4">
                                                     <div className="flex-grow"></div>
                                                     <div className="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-900 hover:text-white">
-                                                        <a href="/Login">More</a>
+                                                        <a onClick={() => alert('아직 개발 중입니다.')}>More</a>
                                                     </div>
                                                 </div>
 

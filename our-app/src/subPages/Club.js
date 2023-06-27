@@ -387,9 +387,9 @@ function Finding() {
             <br />
             <br />
             <div class="flex justify-center">
-                <a class="text-center rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800" href="/Login">
+                <button class="text-center rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800" onClick={() => alert('아직 개발 중입니다.')}>
                     Search
-                </a>
+                </button>
             </div>
         </div>
     )
@@ -1327,10 +1327,16 @@ function Sorting() {
                                     <div>
                                         <br />
                                         <button
+                                            // onClick={() => {
+                                            //     setIsModalOpen(false);
+                                            //     return <Alert />;
+                                            // }}
+
                                             onClick={() => {
                                                 setIsModalOpen(false);
-                                                return <Alert />;
+                                                alert('아직 개발 중입니다.')
                                             }}
+
                                             class="rounded-md bg-violet-500 px-5 py-2.5 text-sm font-medium text-white shadow hover:bg-violet-800 hover:font-bold" href="/Apply">
                                             Submit
                                         </button>
